@@ -1,0 +1,6 @@
+export(runDeMAND)
+export(demandClass)
+export(printDeMAND)
+import(MASS)
+import(methods)
+

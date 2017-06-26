@@ -1,0 +1,13 @@
+Package: DeMAND
+Title: DeMAND
+Version: 0.99.0
+Date: 2015-01-12
+Author: Jung Hoon Woo <jw2853@columbia.edu>
+Maintainer: Jung Hoon Woo <jw2853@columbia.edu>
+Description: DEMAND predicts Drug MoA by interrogating a cell context specific regulatory network with a small number (N >= 6) of compound-induced gene expression signatures, to elucidate specific proteins whose interactions in the network is dysregulated by the compound.
+Depends: R (>= 2.14.0), MASS, methods
+License: GPL (>= 2)
+biocViews: SystemsBiology, NetworkEnrichment, GeneExpression,
+        StatisticalMethod
+Packaged: 2015-01-16 16:48:57 UTC; malvarez
+Built: R 3.1.1; ; 2015-07-07 18:41:46 UTC; unix

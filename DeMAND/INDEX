@@ -1,0 +1,9 @@
+bcellAnno               Annotation for the expression data
+bcellExp                B cell expression data
+bcellNetwork            B cell network
+caseIndex               Case sample index
+controlIndex            Control sample index
+demand-instance         The DeMAND instance
+demandClass             The demand class constructor
+printDeMAND             Basic methods for class demand
+runDeMAND               Run DeMAND algorithm
