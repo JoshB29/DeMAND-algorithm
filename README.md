@@ -13,6 +13,13 @@ The original version of DeMAND was written by Jung Hoon Woo. A faster version (D
 ## Installation
 
 DeMAND is written in R, so if you do not have R, install that first (https://www.r-project.org/).
-After DeMAND and DeMANDfast are downloaded, put their locations in R_LIBS_USER in your bash profile
+After DeMAND and DeMANDfast are downloaded, In the R script:
+The original DeMAND algorithim can be found at BioClite (https://www.bioconductor.org/packages/release/bioc/html/DeMAND.html). Please follow the instructions there to install.
+
+
+
 
 ## Run DeMANDfast
+DeMANDfast can only be found after installing the original DeMAND algorithm, an example of running it is found in example.r
+
+
