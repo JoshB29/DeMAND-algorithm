@@ -12,4 +12,7 @@ The original version of DeMAND was written by Jung Hoon Woo. A faster version (D
 
 ## Installation
 
-DeMAND is written in R, so if you do not have R, install that first (https://www.r-project.org/)
+DeMAND is written in R, so if you do not have R, install that first (https://www.r-project.org/).
+After DeMAND and DeMANDfast are downloaded, put their locations in R_LIBS_USER in your bash profile
+
+## Run DeMANDfast
